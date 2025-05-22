@@ -1,5 +1,5 @@
 #!/bin/bash
-REMOTE=https://github.com/NarpIndex
-REMOTE_NAME="Main Bitey Remote"
-REMOTE_ICON="🍫"
-REMOTE_DESCRIPTION="Main Bitey Remote for Official Packages."
+export REMOTE=https://github.com/NarpIndex
+export REMOTE_NAME="Main Bitey Remote"
+export REMOTE_ICON="🍫"
+export REMOTE_DESCRIPTION="Main Bitey Remote for Official Packages."
